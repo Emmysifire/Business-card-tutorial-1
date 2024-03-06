@@ -1,0 +1,31 @@
+.body{
+    margin: 50px;
+    padding: 20px;
+   
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    background-color: #06d6a0;
+    border-radius: 6px;
+    border-collapse: separate;
+    text-align: center;
+    border-bottom: 5px solid #e09f3e;
+    border-left: 5px solid #e09f3e;
+    color: black;
+    box-shadow: 3px 3px 3px;
+}
+ .border-blue{
+    border: 2px solid red
+ }
+ .image-avatar{
+    width: 150px;
+ }
+ img{
+    border-radius: 15px;
+ }
+ 
